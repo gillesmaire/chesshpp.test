@@ -8,6 +8,8 @@
     {
         // initialize the board to START POS
         Board b(constants::STARTPOS);
+        
+        
 
         // make a move in UCI notation
         Move m=uci::uciToMove(b,"e2e4");
@@ -54,6 +56,11 @@
         cout <<"US"<<endl;
         cout <<c<<endl;
         cout <<"THEM"<<endl;
-        cout <<d<<endl;
+        Square s(Rank::RANK_1,File::FILE_A);
+        cout<<"ok :"<<b.at(s)<<endl;
+        
+        cout <<"ok"<<endl;
+        
+        
         
     }
