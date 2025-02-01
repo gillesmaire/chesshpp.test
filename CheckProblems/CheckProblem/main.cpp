@@ -26,26 +26,12 @@
 //
 //
 // VERSION: 0.1
-
-
 #include <QCoreApplication>
-#include "chess.hpp"
-#include <iostream>
-
-
-using namespace chess;
-using namespace std;
-
-void printBoardBlack(  Board &p )
-{
- cout <<"--------"<<endl;
- for ( int i=0; i<64; i++) {
-           cout << std::string(p.at(Square(i)))   ;
-           if ( (i+1)%8 == 0 ) cout << endl;
-        }
- cout <<"--------"<<endl;
-}
-
+#include <../../chess.hpp>
+    
+    using namespace std;
+    using namespace chess;
+    
 void printBoardWhite(  Board &p )
 {
  cout <<"--------"<<endl;
@@ -59,74 +45,35 @@ void printBoardWhite(  Board &p )
  cout <<"--------"<<endl;
 }
 
-void up()
-{
-   
-}
-
 
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
     Board b(constants::STARTPOS);
-    
-    Movelist list;
     Move m;
-    
-    
-    printBoardWhite(b);
-    
-    m=uci::uciToMove(b,"e2e4");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"d7d5");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"e4d5");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"c7c6");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"d5c6");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"h7h6");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"c6b7");b.makeMove(m);list.add(m);
-    m=uci::uciToMove(b,"h6h5");b.makeMove(m);list.add(m);
+
+    m=uci::uciToMove(b,"e2e4");b.makeMove(m);
+    m=uci::uciToMove(b,"d7d5");b.makeMove(m);
+    m=uci::uciToMove(b,"e4d5");b.makeMove(m);
+    m=uci::uciToMove(b,"c7c6");b.makeMove(m);
+    m=uci::uciToMove(b,"d5c6");b.makeMove(m);
+    m=uci::uciToMove(b,"c8f5");b.makeMove(m);
+    m=uci::uciToMove(b,"c6b7");b.makeMove(m);
+    m=uci::uciToMove(b,"b8c6");b.makeMove(m);
+    m=uci::uciToMove(b,"a2a3");b.makeMove(m);
+    m=uci::uciToMove(b,"d8d7");b.makeMove(m);
     m=Move::make<Move::PROMOTION>(Square::underlying::SQ_B7,
                                   Square::underlying::SQ_A8 ,PieceType::QUEEN);
+    cout<<uci::moveToSan(b,m)<<endl;
+    cout<<uci::moveToLan(b,m)<<endl;
+    b.makeMove(m);
+    m=Move::make<Move::NORMAL>(Square::underlying::SQ_D7,
+                                  Square::underlying::SQ_D6);
+    b.makeMove(m);
+
+  //  m=uci::uciToMove(b,"b7a8");b.makeMove(m);list.add(m);
+     
     
     printBoardWhite(b);
-    for ( auto e : list)
-    {
-      cout<<e<<endl;
-      
-      
-    }
-    cout<<b.getFen()<<endl;
-    
-    cout<<"us color white"<<endl;
-    cout<<b.us(Color::WHITE)<<endl;
-    cout<<"us color black" <<endl;
-    cout<<b.us(Color::BLACK)<<endl;
-    cout<<"them color white" <<endl;
-    cout<<b.them(Color::WHITE)<<endl;
-    cout<<"them color black" <<endl;
-    cout<<b.them(Color::BLACK)<<endl;
-    cout<<" b all" <<endl;
-    
-    cout<<b.all()<<endl;
-    
-    Bitboard c= b.pieces(PieceType::ROOK);
-    cout<<c<<endl;
-    cout<<b.isInsufficientMaterial()<<endl;
-    
-    Square s(Rank::RANK_1,File::FILE_A);
-    cout<<"ok :"<<b.at(s)<<endl;
-        
-    
-    cout<<b.getCastleString()<<endl;
-    
-    
-    cout<<"end"<<endl;
-
-        
-
-    
-    
-    
-     
-        
     return a.exec();
 }
