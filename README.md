@@ -1,1 +1,1 @@
-All the information are in Wiki
+All the informations are in Wiki
