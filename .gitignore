@@ -3,3 +3,9 @@
 build/
 pro.user
 Makefile
+test
+*.user
+chess.hpp
+chess-library/
+*.stash
+promotion/promotion/promotion
