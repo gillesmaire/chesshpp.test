@@ -1,7 +1,0 @@
-<map id="chess::Board::isCapture" name="chess::Board::isCapture">
-<area shape="rect" id="node1" title="Checks if a move is a capture, enpassant moves are also considered captures." alt="" coords="5,56,180,83"/>
-<area shape="rect" id="node2" href="$classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8" title="Returns either the piece or the piece type on a square." alt="" coords="242,5,369,32"/>
-<area shape="rect" id="node4" href="$classchess_1_1_move.html#a530c3f8fb511fcf62f0c461528cde4d0" title="Get the target square of the move." alt="" coords="243,56,367,83"/>
-<area shape="rect" id="node5" href="$classchess_1_1_move.html#af6b2297d5413e4c1c5769b643bb72d8f" title="Get the type of the move. Can be NORMAL, PROMOTION, ENPASSANT or CASTLING." alt="" coords="228,107,383,133"/>
-<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="431,5,587,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="chess::attacks::pawn" name="chess::attacks::pawn">
-<area shape="rect" id="node1" title="Returns the pawn attacks for a given color and square." alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node2" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="212,5,368,32"/>
-</map>

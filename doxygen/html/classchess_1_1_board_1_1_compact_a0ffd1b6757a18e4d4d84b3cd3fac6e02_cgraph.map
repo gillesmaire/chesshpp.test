@@ -1,4 +1,0 @@
-<map id="chess::Board::Compact::decode" name="chess::Board::Compact::decode">
-<area shape="rect" id="node1" title="Creates a Board object from a PackedBoard." alt="" coords="5,29,176,71"/>
-<area shape="rect" id="node2" href="$classchess_1_1_board.html#ad0b675bcda10fcd71a5107942253c58c" title="Checks if the current position is a chess960, aka. FRC/DFRC position." alt="" coords="224,37,399,63"/>
-</map>

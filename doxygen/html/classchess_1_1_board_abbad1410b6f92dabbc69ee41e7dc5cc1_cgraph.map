@@ -1,4 +1,0 @@
-<map id="chess::Board::them" name="chess::Board::them">
-<area shape="rect" id="node1" title="Get the occupancy bitboard for the opposite color." alt="" coords="5,5,152,32"/>
-<area shape="rect" id="node2" href="$classchess_1_1_board.html#aba53bc3c2e225cec75afa9be30a2b3b6" title="Get the occupancy bitboard for the color." alt="" coords="200,5,328,32"/>
-</map>

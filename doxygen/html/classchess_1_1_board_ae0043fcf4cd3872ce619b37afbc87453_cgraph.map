@@ -1,9 +1,0 @@
-<map id="chess::Board::zobrist" name="chess::Board::zobrist">
-<area shape="rect" id="node1" title="Calculates the zobrist hash key of the board, expensive! Prefer using hash()." alt="" coords="5,85,163,112"/>
-<area shape="rect" id="node2" href="$classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8" title="Returns either the piece or the piece type on a square." alt="" coords="251,5,377,32"/>
-<area shape="rect" id="node4" href="$classchess_1_1_square.html#ad4c4e4ecee528c84979197e9286b5571" title=" " alt="" coords="244,56,384,83"/>
-<area shape="rect" id="node5" href="$classchess_1_1_board_1_1_castling_rights.html#a91d82ec7af578232b139cd9149c6d948" title=" " alt="" coords="211,107,417,149"/>
-<area shape="rect" id="node7" href="$classchess_1_1_board.html#aba53bc3c2e225cec75afa9be30a2b3b6" title="Get the occupancy bitboard for the color." alt="" coords="250,173,378,200"/>
-<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="507,31,663,57"/>
-<area shape="rect" id="node6" href="$classchess_1_1_board_1_1_castling_rights.html#a32504a963832752e48a22319f3ff6858" title=" " alt="" coords="465,115,704,141"/>
-</map>

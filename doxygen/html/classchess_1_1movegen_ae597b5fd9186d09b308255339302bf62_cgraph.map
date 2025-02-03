@@ -1,5 +1,0 @@
-<map id="chess::movegen::legalmoves" name="chess::movegen::legalmoves">
-<area shape="rect" id="node1" title="Generates all legal moves for a position." alt="" coords="5,31,217,57"/>
-<area shape="rect" id="node2" href="$classchess_1_1_movelist.html#a970ffb0c07e905b13f7b588598b54ef9" title="Clears the movelist." alt="" coords="279,5,442,32"/>
-<area shape="rect" id="node3" href="$classchess_1_1_board.html#a7ef4b164b62c33bedb86b97036daeaca" title=" " alt="" coords="265,56,456,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="chess::Board::isInsufficientMaterial" name="chess::Board::isInsufficientMaterial">
-<area shape="rect" id="node1" title="Basic check if the current position is a draw by insufficient material." alt="" coords="5,74,201,115"/>
-<area shape="rect" id="node2" href="$classchess_1_1_bitboard.html#af613382ad19488b3be0f0f01ea089a5c" title=" " alt="" coords="249,5,416,32"/>
-<area shape="rect" id="node3" href="$classchess_1_1_board.html#abcb0e9c4acbfca43d89c91bf2cad4ca9" title="Get the occupancy bitboard for both colors. Faster than calling all() or us(Color::WHITE) | us(Color:..." alt="" coords="265,56,400,83"/>
-<area shape="rect" id="node4" href="$classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9" title="Returns all pieces of a certain type and color." alt="" coords="255,107,410,133"/>
-<area shape="rect" id="node5" href="$classchess_1_1_square.html#a4da286dd1184067a44a520a41b98041d" title="Check if the squares share the same color. I.e. if they are both light or dark." alt="" coords="255,158,411,199"/>
-<area shape="rect" id="node6" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="464,165,620,192"/>
-</map>

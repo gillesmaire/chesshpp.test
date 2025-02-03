@@ -1,4 +1,0 @@
-<map id="chess::pgn::Visitor::skipPgn" name="chess::pgn::Visitor::skipPgn">
-<area shape="rect" id="node1" title="When true, the current PGN will be skipped and only endPgn will be called, this will also reset the s..." alt="" coords="5,5,147,47"/>
-<area shape="rect" id="node2" href="$classchess_1_1pgn_1_1_visitor.html#a4345cccb8dce655085e4e9dadf766c15" title=" " alt="" coords="195,5,336,47"/>
-</map>

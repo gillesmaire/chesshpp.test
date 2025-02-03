@@ -1,6 +1,0 @@
-<map id="chess::pgn::StreamParser::readGames" name="chess::pgn::StreamParser::readGames">
-<area shape="rect" id="node1" title=" " alt="" coords="5,39,192,80"/>
-<area shape="rect" id="node2" href="$classchess_1_1pgn_1_1_visitor.html#aecaafeb34ebbc1acde99bcb544ff8af3" title="When true, the current PGN will be skipped and only endPgn will be called, this will also reset the s..." alt="" coords="240,5,381,47"/>
-<area shape="rect" id="node4" href="$classchess_1_1pgn_1_1_visitor.html#ac48760bdefa9fa132c38bb58a8585e3b" title="Called when a new PGN starts." alt="" coords="240,71,381,112"/>
-<area shape="rect" id="node3" href="$classchess_1_1pgn_1_1_visitor.html#a4345cccb8dce655085e4e9dadf766c15" title=" " alt="" coords="429,5,571,47"/>
-</map>

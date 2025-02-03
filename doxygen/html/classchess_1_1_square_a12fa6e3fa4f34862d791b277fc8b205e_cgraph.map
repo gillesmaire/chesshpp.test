@@ -1,4 +1,0 @@
-<map id="chess::Square::is_dark" name="chess::Square::is_dark">
-<area shape="rect" id="node1" title="Check if the square is dark." alt="" coords="5,5,172,32"/>
-<area shape="rect" id="node2" href="$classchess_1_1_square.html#a3fca63d2ef44bb513140cd3de83788f1" title="Check if the square is light." alt="" coords="220,5,387,32"/>
-</map>

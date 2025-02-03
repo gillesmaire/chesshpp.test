@@ -9,3 +9,4 @@ chess.hpp
 chess-library/
 *.stash
 a.out
+Doxygen

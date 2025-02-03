@@ -1,9 +1,0 @@
-<map id="chess::uci::moveToUci" name="chess::uci::moveToUci">
-<area shape="rect" id="node1" title="Converts an internal move to a UCI string." alt="" coords="5,107,172,133"/>
-<area shape="rect" id="node2" href="$classchess_1_1_move.html#ae3e8206567e4baef814f0f9dab557e42" title="Get the source square of the move." alt="" coords="253,5,395,32"/>
-<area shape="rect" id="node3" href="$classchess_1_1_move.html#a4024094a9c379f3c8a434324c0f4493d" title="Get the promotion piece of the move, should only be used if typeOf() returns PROMOTION." alt="" coords="220,56,428,83"/>
-<area shape="rect" id="node4" href="$classchess_1_1_square.html#a2697285710395fcc8214efa26df86783" title=" " alt="" coords="249,107,399,133"/>
-<area shape="rect" id="node6" href="$classchess_1_1_move.html#a530c3f8fb511fcf62f0c461528cde4d0" title="Get the target square of the move." alt="" coords="262,157,386,184"/>
-<area shape="rect" id="node7" href="$classchess_1_1_move.html#af6b2297d5413e4c1c5769b643bb72d8f" title="Get the type of the move. Can be NORMAL, PROMOTION, ENPASSANT or CASTLING." alt="" coords="247,208,401,235"/>
-<area shape="rect" id="node5" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="476,107,632,133"/>
-</map>
