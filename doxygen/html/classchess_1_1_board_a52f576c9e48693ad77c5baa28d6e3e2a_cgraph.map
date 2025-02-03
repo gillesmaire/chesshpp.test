@@ -1,0 +1,4 @@
+<map id="chess::Board::hasNonPawnMaterial" name="chess::Board::hasNonPawnMaterial">
+<area shape="rect" id="node1" title="Checks if the given color has at least 1 piece thats not pawn and not king." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9" title="Returns all pieces of a certain type and color." alt="" coords="249,13,404,39"/>
+</map>

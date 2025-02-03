@@ -1,0 +1,4 @@
+<map id="chess::Board::Board" name="chess::Board::Board">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#ad0b675bcda10fcd71a5107942253c58c" title="Checks if the current position is a chess960, aka. FRC/DFRC position." alt="" coords="204,5,379,32"/>
+</map>

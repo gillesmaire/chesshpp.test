@@ -1,0 +1,5 @@
+<map id="chess::Board::getCastleString" name="chess::Board::getCastleString">
+<area shape="rect" id="node1" title="Get the castling rights as a string." alt="" coords="5,42,219,69"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board_1_1_castling_rights.html#ac2a62ba98ed1f0d0d585ef093ba33a22" title=" " alt="" coords="283,5,489,47"/>
+<area shape="rect" id="node3" href="$classchess_1_1_board_1_1_castling_rights.html#a32504a963832752e48a22319f3ff6858" title=" " alt="" coords="267,71,505,98"/>
+</map>

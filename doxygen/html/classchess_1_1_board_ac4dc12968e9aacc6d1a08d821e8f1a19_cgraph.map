@@ -1,0 +1,11 @@
+<map id="chess::Board::getFen" name="chess::Board::getFen">
+<area shape="rect" id="node1" title="Get the current FEN string." alt="" coords="5,107,163,133"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8" title="Returns either the piece or the piece type on a square." alt="" coords="259,5,385,32"/>
+<area shape="rect" id="node4" href="$classchess_1_1_board.html#aa7516570a9507212d586f9f2dfffa2c8" title=" " alt="" coords="211,56,433,83"/>
+<area shape="rect" id="node5" href="$classchess_1_1_board.html#a9320cb989d66532fe66cad1a569a5255" title="Get the castling rights as a string." alt="" coords="215,107,429,133"/>
+<area shape="rect" id="node8" href="$classchess_1_1_board.html#a841e85131c4590421ca236bb6262c117" title=" " alt="" coords="217,157,427,184"/>
+<area shape="rect" id="node9" href="$classchess_1_1_board_1_1_castling_rights.html#af9a4ee6827380bee6d8a2dea0add6362" title=" " alt="" coords="219,209,425,250"/>
+<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="523,5,679,32"/>
+<area shape="rect" id="node6" href="$classchess_1_1_board_1_1_castling_rights.html#ac2a62ba98ed1f0d0d585ef093ba33a22" title=" " alt="" coords="497,99,704,141"/>
+<area shape="rect" id="node7" href="$classchess_1_1_board_1_1_castling_rights.html#a32504a963832752e48a22319f3ff6858" title=" " alt="" coords="481,191,720,217"/>
+</map>

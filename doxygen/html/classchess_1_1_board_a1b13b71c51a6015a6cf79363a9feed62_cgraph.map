@@ -1,0 +1,5 @@
+<map id="chess::Board::makeNullMove" name="chess::Board::makeNullMove">
+<area shape="rect" id="node1" title="Make a null move. (Switches the side to move)" alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_square.html#ad4c4e4ecee528c84979197e9286b5571" title=" " alt="" coords="264,5,404,32"/>
+<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="452,5,608,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="chess::Board::at" name="chess::Board::at">
+<area shape="rect" id="node1" title="Returns either the piece or the piece type on a square." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="180,5,336,32"/>
+</map>

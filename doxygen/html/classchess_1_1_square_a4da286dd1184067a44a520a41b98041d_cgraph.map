@@ -1,0 +1,4 @@
+<map id="chess::Square::same_color" name="chess::Square::same_color">
+<area shape="rect" id="node1" title="Check if the squares share the same color. I.e. if they are both light or dark." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="209,13,365,39"/>
+</map>

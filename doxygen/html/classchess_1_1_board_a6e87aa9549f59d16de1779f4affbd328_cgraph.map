@@ -1,0 +1,19 @@
+<map id="chess::Board::getHalfMoveDrawType" name="chess::Board::getHalfMoveDrawType">
+<area shape="rect" id="node1" title="Only call this function if isHalfMoveDraw() returns true." alt="" coords="5,302,203,343"/>
+<area shape="rect" id="node2" href="$classchess_1_1_movelist.html#aff3973b528c2bb30affc61d745c96699" title="Checks if the movelist is empty." alt="" coords="270,259,443,285"/>
+<area shape="rect" id="node3" href="$classchess_1_1_board.html#a379d32c91e5b5e8025386853c1c952dc" title="Checks if the current side to move is in check." alt="" coords="274,309,439,336"/>
+<area shape="rect" id="node15" href="$classchess_1_1movegen.html#ae597b5fd9186d09b308255339302bf62" title="Generates all legal moves for a position." alt="" coords="251,360,463,387"/>
+<area shape="rect" id="node4" href="$classchess_1_1_board.html#ad3fab868d3070b2b19b4e1a6ac890980" title="Checks if a square is attacked by the given color." alt="" coords="515,183,697,209"/>
+<area shape="rect" id="node13" href="$classchess_1_1_board.html#ae227943b01fdd5db80b534dd02260665" title="Returns the square of the king for a certain color." alt="" coords="527,309,685,336"/>
+<area shape="rect" id="node5" href="$classchess_1_1attacks.html#a86cda181284b6f84be9f9fd783b44b9f" title="Returns the bishop attacks for a given square." alt="" coords="749,5,916,32"/>
+<area shape="rect" id="node7" href="$classchess_1_1attacks.html#a01c99cace6d73635b2c3231bddd99152" title="Returns the king attacks for a given square." alt="" coords="757,56,908,83"/>
+<area shape="rect" id="node8" href="$classchess_1_1attacks.html#aa7783ec60593518b2856e61531480c95" title="Returns the knight attacks for a given square." alt="" coords="751,107,915,133"/>
+<area shape="rect" id="node9" href="$classchess_1_1_board.html#abcb0e9c4acbfca43d89c91bf2cad4ca9" title="Get the occupancy bitboard for both colors. Faster than calling all() or us(Color::WHITE) | us(Color:..." alt="" coords="765,157,900,184"/>
+<area shape="rect" id="node10" href="$classchess_1_1attacks.html#a5bd4e319b2310dc605fa9beb46241591" title="Returns the pawn attacks for a given color and square." alt="" coords="753,208,912,235"/>
+<area shape="rect" id="node11" href="$classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9" title="Returns all pieces of a certain type and color." alt="" coords="755,309,910,336"/>
+<area shape="rect" id="node12" href="$classchess_1_1attacks.html#a3bd0dee3b87a19fd6dd05bc6e4968102" title="Returns the rook attacks for a given square." alt="" coords="757,259,909,285"/>
+<area shape="rect" id="node6" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="964,107,1120,133"/>
+<area shape="rect" id="node14" href="$classchess_1_1_bitboard.html#a334e4daa65abaf1e18c19baf1fe36953" title=" " alt="" coords="758,360,907,387"/>
+<area shape="rect" id="node16" href="$classchess_1_1_movelist.html#a970ffb0c07e905b13f7b588598b54ef9" title="Clears the movelist." alt="" coords="525,360,687,387"/>
+<area shape="rect" id="node17" href="$classchess_1_1_board.html#a7ef4b164b62c33bedb86b97036daeaca" title=" " alt="" coords="511,411,701,437"/>
+</map>

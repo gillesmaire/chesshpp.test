@@ -8,4 +8,4 @@ test
 chess.hpp
 chess-library/
 *.stash
-promotion/promotion/promotion
+a.out

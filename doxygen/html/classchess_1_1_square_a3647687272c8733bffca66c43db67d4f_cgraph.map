@@ -1,0 +1,6 @@
+<map id="chess::Square::ep_square" name="chess::Square::ep_square">
+<area shape="rect" id="node1" title="Get the en passant square. Should only be called for valid ep positions." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$classchess_1_1_square.html#a2697285710395fcc8214efa26df86783" title=" " alt="" coords="248,5,397,32"/>
+<area shape="rect" id="node4" href="$classchess_1_1_square.html#abd85fbd1bd9f2a79397abac2a54e0323" title=" " alt="" coords="240,56,405,83"/>
+<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="453,5,609,32"/>
+</map>

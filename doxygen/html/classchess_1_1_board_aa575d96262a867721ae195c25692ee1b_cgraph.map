@@ -1,0 +1,29 @@
+<map id="chess::Board::makeMove" name="chess::Board::makeMove">
+<area shape="rect" id="node1" title="Make a move on the board. The move must be legal otherwise the behavior is undefined...." alt="" coords="5,627,191,654"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8" title="Returns either the piece or the piece type on a square." alt="" coords="551,90,677,116"/>
+<area shape="rect" id="node4" href="$classchess_1_1_rank.html#a6b0c5065c5ffcdfa2a561f7403526bd7" title=" " alt="" coords="255,52,430,79"/>
+<area shape="rect" id="node5" href="$classchess_1_1_square.html#a6172ec61b52d5288182495b3dbc47c30" title="Check if the square is on the back rank." alt="" coords="249,103,436,130"/>
+<area shape="rect" id="node6" href="$classchess_1_1_square.html#a1d1681508e8dce67df6f55c452eacb23" title="Get the destination square of the king after castling." alt="" coords="257,154,428,196"/>
+<area shape="rect" id="node8" href="$classchess_1_1_square.html#a2ea220c76675390dc12ff7b93dcadf28" title="Get the destination square of the rook after castling." alt="" coords="257,220,428,261"/>
+<area shape="rect" id="node9" href="$classchess_1_1_board_1_1_castling_rights.html#a224a812177b99b935418c5ead6795e64" title=" " alt="" coords="239,285,446,326"/>
+<area shape="rect" id="node10" href="$classchess_1_1_board_1_1_castling_rights.html#ab7b40f57b5bf4fec92cd308bf8d8f81d" title=" " alt="" coords="239,350,446,392"/>
+<area shape="rect" id="node11" href="$classchess_1_1_square.html#a3647687272c8733bffca66c43db67d4f" title="Get the en passant square. Should only be called for valid ep positions." alt="" coords="249,416,436,443"/>
+<area shape="rect" id="node12" href="$classchess_1_1_square.html#a2697285710395fcc8214efa26df86783" title=" " alt="" coords="539,467,689,494"/>
+<area shape="rect" id="node13" href="$classchess_1_1_square.html#ad4c4e4ecee528c84979197e9286b5571" title=" " alt="" coords="544,518,684,544"/>
+<area shape="rect" id="node14" href="$classchess_1_1_move.html#ae3e8206567e4baef814f0f9dab557e42" title="Get the source square of the move." alt="" coords="271,568,414,595"/>
+<area shape="rect" id="node15" href="$classchess_1_1_board_1_1_castling_rights.html#ac2a62ba98ed1f0d0d585ef093ba33a22" title=" " alt="" coords="239,620,446,661"/>
+<area shape="rect" id="node16" href="$classchess_1_1_board_1_1_castling_rights.html#a32504a963832752e48a22319f3ff6858" title=" " alt="" coords="495,715,733,742"/>
+<area shape="rect" id="node17" href="$classchess_1_1_board_1_1_castling_rights.html#a91d82ec7af578232b139cd9149c6d948" title=" " alt="" coords="239,737,446,778"/>
+<area shape="rect" id="node18" href="$classchess_1_1_board.html#ae227943b01fdd5db80b534dd02260665" title="Returns the square of the king for a certain color." alt="" coords="264,803,421,830"/>
+<area shape="rect" id="node20" href="$classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9" title="Returns all pieces of a certain type and color." alt="" coords="537,854,691,880"/>
+<area shape="rect" id="node21" href="$classchess_1_1attacks.html#a5bd4e319b2310dc605fa9beb46241591" title="Returns the pawn attacks for a given color and square." alt="" coords="535,904,693,931"/>
+<area shape="rect" id="node22" href="$classchess_1_1_board.html#a6c46a635df10491d4b5bc3c7f31064e4" title=" " alt="" coords="251,955,434,982"/>
+<area shape="rect" id="node23" href="$classchess_1_1_move.html#a4024094a9c379f3c8a434324c0f4493d" title="Get the promotion piece of the move, should only be used if typeOf() returns PROMOTION." alt="" coords="239,1006,447,1032"/>
+<area shape="rect" id="node24" href="$classchess_1_1_board.html#a3d3d84a3b7f56fcc7c8aeecb8cdec547" title=" " alt="" coords="243,1056,442,1083"/>
+<area shape="rect" id="node25" href="$classchess_1_1_move.html#a530c3f8fb511fcf62f0c461528cde4d0" title="Get the target square of the move." alt="" coords="281,1107,405,1134"/>
+<area shape="rect" id="node26" href="$classchess_1_1_move.html#af6b2297d5413e4c1c5769b643bb72d8f" title="Get the type of the move. Can be NORMAL, PROMOTION, ENPASSANT or CASTLING." alt="" coords="265,1158,420,1184"/>
+<area shape="rect" id="node27" href="$classchess_1_1_square.html#aeced206fb515327633dc7f8103549170" title="Absolute value of sq &#45; sq2." alt="" coords="265,1209,421,1250"/>
+<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="781,492,937,519"/>
+<area shape="rect" id="node7" href="$classchess_1_1_square.html#abd85fbd1bd9f2a79397abac2a54e0323" title=" " alt="" coords="531,227,697,254"/>
+<area shape="rect" id="node19" href="$classchess_1_1_bitboard.html#a334e4daa65abaf1e18c19baf1fe36953" title=" " alt="" coords="539,803,689,830"/>
+</map>

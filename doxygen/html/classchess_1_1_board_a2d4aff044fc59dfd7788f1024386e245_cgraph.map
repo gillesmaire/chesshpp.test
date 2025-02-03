@@ -1,0 +1,12 @@
+<map id="chess::Board::unmakeMove" name="chess::Board::unmakeMove">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,207,209"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#a1297de350db86bc9b833b60c3dc8c8d8" title="Returns either the piece or the piece type on a square." alt="" coords="295,5,422,32"/>
+<area shape="rect" id="node4" href="$classchess_1_1_move.html#ae3e8206567e4baef814f0f9dab557e42" title="Get the source square of the move." alt="" coords="287,56,430,83"/>
+<area shape="rect" id="node5" href="$classchess_1_1_board.html#a6c46a635df10491d4b5bc3c7f31064e4" title=" " alt="" coords="267,107,450,133"/>
+<area shape="rect" id="node6" href="$classchess_1_1_move.html#a4024094a9c379f3c8a434324c0f4493d" title="Get the promotion piece of the move, should only be used if typeOf() returns PROMOTION." alt="" coords="255,157,463,184"/>
+<area shape="rect" id="node7" href="$classchess_1_1_square.html#a2697285710395fcc8214efa26df86783" title=" " alt="" coords="284,208,433,235"/>
+<area shape="rect" id="node8" href="$classchess_1_1_board.html#a3d3d84a3b7f56fcc7c8aeecb8cdec547" title=" " alt="" coords="259,259,458,285"/>
+<area shape="rect" id="node9" href="$classchess_1_1_move.html#a530c3f8fb511fcf62f0c461528cde4d0" title="Get the target square of the move." alt="" coords="297,309,421,336"/>
+<area shape="rect" id="node10" href="$classchess_1_1_move.html#af6b2297d5413e4c1c5769b643bb72d8f" title="Get the type of the move. Can be NORMAL, PROMOTION, ENPASSANT or CASTLING." alt="" coords="281,360,436,387"/>
+<area shape="rect" id="node3" href="$classchess_1_1_square.html#a64acebe1585958788325ab8f73baff63" title=" " alt="" coords="511,107,667,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="chess::Move::make" name="chess::Move::make">
+<area shape="rect" id="node1" title="Creates a move from a source and target square." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_move.html#a8311f874a414558635cb9b0b9edcdcbe" title=" " alt="" coords="200,5,347,32"/>
+</map>

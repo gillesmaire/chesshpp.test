@@ -1,0 +1,4 @@
+<map id="chess::Board::isRepetition" name="chess::Board::isRepetition">
+<area shape="rect" id="node1" title="Checks if the current position is a repetition, set this to 1 if you are writing a chess engine." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#a301a057ffe5c9c3d20574daca05556cb" title="Get the current zobrist hash key of the board." alt="" coords="244,5,388,32"/>
+</map>

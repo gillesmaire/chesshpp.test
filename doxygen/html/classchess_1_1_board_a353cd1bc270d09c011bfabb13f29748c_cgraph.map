@@ -1,0 +1,4 @@
+<map id="chess::Board::pieces" name="chess::Board::pieces">
+<area shape="rect" id="node1" title="Returns all pieces of a certain type." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classchess_1_1_board.html#afd82845f14e00b5b9c83198f968a4cb9" title="Returns all pieces of a certain type and color." alt="" coords="208,5,363,32"/>
+</map>

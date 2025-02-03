@@ -1,0 +1,4 @@
+<map id="chess::Square::relative_square" name="chess::Square::relative_square">
+<area shape="rect" id="node1" title="Flips the square vertically, depending on the color." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classchess_1_1_square.html#abd85fbd1bd9f2a79397abac2a54e0323" title=" " alt="" coords="224,13,389,39"/>
+</map>
